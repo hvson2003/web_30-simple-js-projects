@@ -6,3 +6,4 @@
 5. **Notes App** : Ghi nhật ký và ghi chú đơn giản.
 6. **Age Calculator App** : Tính số ngày, tháng, năm tuổi của người dùng.
 7. **Quote Generator App** : Hiển thị ngẫu nhiên các quote và có nút share.
+8. **QR Code Generator App** : Tạo QR Code với text, link trang web.
