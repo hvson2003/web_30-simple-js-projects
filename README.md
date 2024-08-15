@@ -7,3 +7,7 @@
 6. **Age Calculator App** : Tính số ngày, tháng, năm tuổi của người dùng.
 7. **Quote Generator App** : Hiển thị ngẫu nhiên các quote và có nút share.
 8. **QR Code Generator App** : Tạo QR Code với text, link trang web.
+9. **Snack Bar** : Snack bar thông báo thành công và lỗi.
+10. **Music Player App** : Chơi nhạc, có thao tác bắt đầu, dừng lại, tua thời gian.
+11. **Stopwatch App** : Đếm thời gian.
+12. **Calculator App** : Máy tính đơn giản.
