@@ -1,4 +1,7 @@
 # 30 Simple JavaScript Projects
+## Instructor: GreatStack
+*YouTube*: [GreatStack](https://www.youtube.com/@GreatStackDev)
+
 1. **Weather App** : Cung cấp thông tin về thời tiết, nhiệt độ, gió, độ ẩm.
 2. **To-Do List App** : Ghi chép và quản lý các công việc cần làm.
 3. **Quiz App** : Ứng dụng trắc nghiệm với các câu hỏi và đáp án.
