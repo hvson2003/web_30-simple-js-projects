@@ -19,8 +19,8 @@
 15. [**Dark Mode Toggle App**](https://hvson2003.github.io/web_30-simple-javascript-projects/dark-mode-toggle-app) : Chuyển đổi giữa chế độ tối và chệ độ sáng.
 16. [**Form Validation**](https://hvson2003.github.io/web_30-simple-javascript-projects/form-validation) : Kiểm tra, xác thực đầu vào của form.
 17. [**Image Gallery**](https://hvson2003.github.io/web_30-simple-javascript-projects/image-gallery) : Cuộn qua các bộ sưu tập hình ảnh.
-18. [**Email Subscription Form Google Sheet**](https://hvson2003.github.io/web_30-simple-javascript-projects/email-subscription-form-gg-sheet) :Gửi dữ liệu từ form lên Google Sheet.
-        Link Google Sheet: https://docs.google.com/spreadsheets/d/1lMVIukcFZTzhhULvpwFtejShu1tNzL1YT5JwjbuFUCI/edit?usp=sharing
+18. [**Email Subscription Form Google Sheet**](https://hvson2003.github.io/web_30-simple-javascript-projects/email-subscription-form-gg-sheet) : Gửi dữ liệu từ form lên Google Sheet.
+        Link Google Sheet: [Google Sheet](https://docs.google.com/spreadsheets/d/1lMVIukcFZTzhhULvpwFtejShu1tNzL1YT5JwjbuFUCI/edit?usp=sharing)
 19. [**Check Pasword Strength**](https://hvson2003.github.io/web_30-simple-javascript-projects/check-password-strength) : Kiểm tra độ mạnh mật khẩu.
 20. [**Text To Voice Converter**](https://hvson2003.github.io/web_30-simple-javascript-projects/text-to-voice-converter) : Chuyển văn bản thành giọng nói.
 21. [**Coming Soon Page**](https://hvson2003.github.io/web_30-simple-javascript-projects/coming-soon-page) : Trang đếm ngược một sự kiện.
