@@ -1,6 +1,5 @@
 # 30 Simple JavaScript Projects
-## Instructor: GreatStack
-*YouTube*: [GreatStack](https://www.youtube.com/@GreatStackDev)
+## Instructor: [GreatStack](https://www.youtube.com/@GreatStackDev)
 
 1. [**Weather App**](https://hvson2003.github.io/web_30-simple-javascript-projects/weather-app) : Cung cấp thông tin về thời tiết, nhiệt độ, gió, độ ẩm.
 2. [**To-Do List App**](https://hvson2003.github.io/web_30-simple-javascript-projects/to-do-list-app) : Ghi chép và quản lý các công việc cần làm.
